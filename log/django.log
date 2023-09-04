@@ -1,0 +1,2875 @@
+"GET / HTTP/1.1" 200 12
+Not Found: /index
+"GET /index HTTP/1.1" 404 2423
+"GET / HTTP/1.1" 200 12
+"GET /about/ HTTP/1.1" 200 27
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 27
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2200
+index pfge acsees
+"GET /cc HTTP/1.1" 200 12
+"GET /cc/about HTTP/1.1" 301 0
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /cc/about/ HTTP/1.1" 200 27
+C:\teach\pyt\jango_gb\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2442
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2545
+Internal Server Error: /sem2
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\semin2_app\views.py", line 5, in index
+    logger.info("index pfge acsees")
+    ^^^^^^
+NameError: name 'logger' is not defined
+"GET /sem2 HTTP/1.1" 500 66531
+C:\teach\pyt\jango_gb\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /sem2 HTTP/1.1" 301 0
+Internal Server Error: /sem2/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\semin2_app\views.py", line 5, in index
+    logger.info("index pfge acsees")
+    ^^^^^^
+NameError: name 'logger' is not defined
+"GET /sem2/ HTTP/1.1" 500 66678
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+Internal Server Error: /sem2/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\semin2_app\views.py", line 5, in index
+    logger.info("index pfge acsees")
+    ^^^^^^
+NameError: name 'logger' is not defined
+"GET /sem2/ HTTP/1.1" 500 66541
+C:\teach\pyt\jango_gb\myproject\semin2_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /sem2/ HTTP/1.1" 200 12
+"GET /sem2/ HTTP/1.1" 200 12
+C:\teach\pyt\jango_gb\myproject\semin2_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /sem2/ HTTP/1.1" 200 13
+C:\teach\pyt\jango_gb\myproject\semin2_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /sem2/ HTTP/1.1" 200 22
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /sem2/ HTTP/1.1" 200 22
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2546
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+C:\teach\pyt\jango_gb\myproject\semin2_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2651
+Not Found: /les3
+"GET /les3 HTTP/1.1" 404 2630
+Not Found: /les3/
+"GET /les3/ HTTP/1.1" 404 2874
+Not Found: /les3/ hello/
+"GET /les3/%20hello/ HTTP/1.1" 404 2897
+Not Found: /lles3/hello/
+"GET /lles3/hello/ HTTP/1.1" 404 2654
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /lles3/hello1
+"GET /lles3/hello1 HTTP/1.1" 404 2654
+Not Found: /lles3/hello1
+"GET /lles3/hello1 HTTP/1.1" 404 2654
+Not Found: /lles3
+"GET /lles3 HTTP/1.1" 404 2633
+Not Found: /les3/
+"GET /les3/ HTTP/1.1" 404 2876
+"GET /les3/hello2/ HTTP/1.1" 200 23
+"GET /les3/hello1/ HTTP/1.1" 200 21
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 12
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2651
+Not Found: /post
+"GET /post HTTP/1.1" 404 2630
+Not Found: /post/2012
+"GET /post/2012 HTTP/1.1" 404 2645
+Not Found: /post/2012/
+"GET /post/2012/ HTTP/1.1" 404 2648
+Not Found: /post/2012/12
+"GET /post/2012/12 HTTP/1.1" 404 2654
+Not Found: /posts/2012/12
+"GET /posts/2012/12 HTTP/1.1" 404 2657
+Not Found: /posts/2012
+"GET /posts/2012 HTTP/1.1" 404 2648
+Not Found: /posts/
+"GET /posts/ HTTP/1.1" 404 2636
+Not Found: /sem3
+"GET /sem3 HTTP/1.1" 404 2630
+Not Found: /sem3/posts
+"GET /sem3/posts HTTP/1.1" 404 2648
+Not Found: /sem3/posts/2012
+"GET /sem3/posts/2012 HTTP/1.1" 404 2663
+"GET /les3/posts/2012 HTTP/1.1" 301 0
+"GET /les3/posts/2012/ HTTP/1.1" 200 19
+"GET /les3/posts/2012/10 HTTP/1.1" 301 0
+"GET /les3/posts/2012/10/ HTTP/1.1" 200 21
+"GET /les3/posts/2012/10/3 HTTP/1.1" 301 0
+"GET /les3/posts/2012/10/3/ HTTP/1.1" 200 354
+C:\teach\pyt\jango_gb\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp3\views.py", line 41, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+"GET /les3/ HTTP/1.1" 500 81657
+"GET /les3/ HTTP/1.1" 200 156
+"GET /les3/ HTTP/1.1" 200 156
+C:\teach\pyt\jango_gb\myproject\myapp3\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp3\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/if HTTP/1.1" 301 0
+"GET /les3/if/ HTTP/1.1" 200 288
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2651
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp3/my_template.html", context=context)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84626
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2651
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp3/my_template.html", context)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84747
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp3/my_template.html", context)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84747
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", context)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84717
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", context=context)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"GET / HTTP/1.1" 500 83164
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", context=context)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"GET / HTTP/1.1" 500 83180
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"GET / HTTP/1.1" 500 83180
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68052
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68052
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68052
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68036
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"GET / HTTP/1.1" 500 83148
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/tempates/index.html", content)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/index.html
+"GET / HTTP/1.1" 500 83166
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/tempates/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/tempates/index.html
+"GET / HTTP/1.1" 500 83328
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/tempates/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/tempates/index.html
+"GET / HTTP/1.1" 500 83328
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/tempates/index.html
+"GET / HTTP/1.1" 500 83310
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'content'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 8: 'content'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 132528
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84689
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84689
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84705
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68052
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.index didn't return an HttpResponse object. It returned None instead.
+"GET / HTTP/1.1" 500 68837
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.index didn't return an HttpResponse object. It returned None instead.
+"GET / HTTP/1.1" 500 68837
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.index didn't return an HttpResponse object. It returned None instead.
+"GET / HTTP/1.1" 500 68837
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.index didn't return an HttpResponse object. It returned None instead.
+"GET / HTTP/1.1" 500 68837
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.index didn't return an HttpResponse object. It returned None instead.
+"GET / HTTP/1.1" 500 68837
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content=content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68093
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    render(request, "myapp/index.html", content)
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68077
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 124
+index pfge acsees
+"GET / HTTP/1.1" 200 124
+index pfge acsees
+"GET / HTTP/1.1" 200 124
+index pfge acsees
+"GET / HTTP/1.1" 200 124
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84747
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84747
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than str.
+"GET / HTTP/1.1" 500 84763
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: render() got an unexpected keyword argument 'content'
+"GET / HTTP/1.1" 500 68090
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 158
+index pfge acsees
+"GET / HTTP/1.1" 200 158
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 191
+index pfge acsees
+"GET / HTTP/1.1" 200 191
+index pfge acsees
+"GET / HTTP/1.1" 200 168
+index pfge acsees
+"GET / HTTP/1.1" 200 134
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about HTTP/1.1" 301 0
+About page accessed
+"GET /about/ HTTP/1.1" 200 134
+About page accessed
+"GET /about/ HTTP/1.1" 200 134
+About page accessed
+"GET /about/ HTTP/1.1" 200 134
+C:\teach\pyt\jango_gb\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+About page accessed
+"GET /about/ HTTP/1.1" 200 143
+About page accessed
+"GET /about/ HTTP/1.1" 200 143
+About page accessed
+"GET /about/ HTTP/1.1" 200 154
+index pfge acsees
+"GET / HTTP/1.1" 200 253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2651
+index pfge acsees
+"GET / HTTP/1.1" 200 253
+index pfge acsees
+"GET / HTTP/1.1" 200 283
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endblock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 16: 'endblock'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 134482
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endblock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 16: 'endblock'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 134482
+index pfge acsees
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'end'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp\views.py", line 11, in index
+    return render(request, "myapp/index.html", content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 16: 'end'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 134435
+index pfge acsees
+"GET / HTTP/1.1" 200 255
+index pfge acsees
+"GET / HTTP/1.1" 200 255
+index pfge acsees
+"GET / HTTP/1.1" 200 255
+index pfge acsees
+"GET / HTTP/1.1" 200 255
+index pfge acsees
+"GET / HTTP/1.1" 200 255
+About page accessed
+"GET /about/ HTTP/1.1" 200 347
+About page accessed
+"GET /about/ HTTP/1.1" 200 347
+About page accessed
+"GET /about/ HTTP/1.1" 200 347
+About page accessed
+"GET /about/ HTTP/1.1" 200 377
+About page accessed
+"GET /about/ HTTP/1.1" 200 370
+About page accessed
+"GET /about/ HTTP/1.1" 200 370
+index pfge acsees
+"GET / HTTP/1.1" 200 278
+index pfge acsees
+"GET / HTTP/1.1" 200 278
+index pfge acsees
+"GET / HTTP/1.1" 200 252
+index pfge acsees
+"GET / HTTP/1.1" 200 252
+About page accessed
+"GET /about/ HTTP/1.1" 200 345
+index pfge acsees
+"GET / HTTP/1.1" 200 252
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2756
+Not Found: /les4
+"GET /les4 HTTP/1.1" 404 2735
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 2812
+Not Found: /les4/ user/add/
+"GET /les4/%20user/add/ HTTP/1.1" 404 2844
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /h3
+"GET /h3 HTTP/1.1" 404 2729
+"GET /les3/ HTTP/1.1" 200 158
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 2812
+Not Found: /les4/user
+"GET /les4/user HTTP/1.1" 404 2824
+"GET /les4/user/add HTTP/1.1" 301 0
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 15, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 68026
+Not Found: /les4/user/
+"GET /les4/user/ HTTP/1.1" 404 2827
+Not Found: /les4/ user/add/
+"GET /les4/%20user/add/ HTTP/1.1" 404 2844
+Not Found: /les4/uswer/add
+"GET /les4/uswer/add HTTP/1.1" 404 2839
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 15, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 68163
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 15, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 68163
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 15, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 68163
+Not Found: /les4/user/add/1
+"GET /les4/user/add/1 HTTP/1.1" 404 2842
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /les4/add/
+"GET /les4/add/ HTTP/1.1" 404 2824
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 15, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 68026
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                            ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67485
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                     ^^^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67475
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 23, in user_form
+    return render(request, 'myapp4/user_form.html', {'form':form})
+                                                     ^^^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/user/add/ HTTP/1.1" 500 67475
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les4/user/add/ HTTP/1.1" 200 679
+"GET /les4/user/add/ HTTP/1.1" 200 890
+"GET /les4/user/add/ HTTP/1.1" 200 890
+"POST /les4/user/add/ HTTP/1.1" 200 943
+"POST /les4/user/add/ HTTP/1.1" 200 963
+"POST /les4/user/add/ HTTP/1.1" 200 963
+"POST /les4/user/add/ HTTP/1.1" 200 963
+C:\teach\pyt\jango_gb\myproject\myapp4\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+                                                                    ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/forms/ HTTP/1.1" 500 67347
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/many_fields_form.html
+"GET /les4/forms/ HTTP/1.1" 500 83513
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/many_fields_form.html
+"GET /les4/forms/ HTTP/1.1" 500 83513
+"GET /les4/forms/ HTTP/1.1" 200 123
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/forms/ HTTP/1.1" 500 134701
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/forms/ HTTP/1.1" 500 134701
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 518, in parse
+    self.unclosed_block_tag(parse_until)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 581, in unclosed_block_tag
+    raise self.error(token, msg)
+django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 10: 'block'. Looking for one of: endblock.
+"GET /les4/forms/ HTTP/1.1" 500 146353
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 518, in parse
+    self.unclosed_block_tag(parse_until)
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\base.py", line 581, in unclosed_block_tag
+    raise self.error(token, msg)
+django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 10: 'block'. Looking for one of: endblock.
+"GET /les4/forms/ HTTP/1.1" 500 146353
+"GET /les4/forms/ HTTP/1.1" 200 2068
+"POST /les4/forms/ HTTP/1.1" 200 2155
+"POST /les4/forms/ HTTP/1.1" 200 2155
+"POST /les4/forms/ HTTP/1.1" 200 2155
+C:\teach\pyt\jango_gb\myproject\myapp4\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /les4/forms/ HTTP/1.1" 200 2155
+"POST /les4/forms/ HTTP/1.1" 200 2155
+C:\teach\pyt\jango_gb\myproject\myapp4\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /les4/add_user
+"GET /les4/add_user HTTP/1.1" 404 3193
+Not Found: /les4/add_user/
+"GET /les4/add_user/ HTTP/1.1" 404 3196
+"GET /les4/user/ HTTP/1.1" 200 891
+"POST /les4/user/ HTTP/1.1" 200 1084
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /les4/upload/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 60, in upload_image
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /les4/upload/ HTTP/1.1" 500 68195
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les4/upload/ HTTP/1.1" 200 570
+"POST /les4/upload/ HTTP/1.1" 200 570
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2756
+Not Found: /ûóü
+"GET /%D1%8B%D1%83%D1%8C HTTP/1.1" 404 2753
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 3349
+Not Found: /les4/ user/add/
+"GET /les4/%20user/add/ HTTP/1.1" 404 3381
+"GET /les4/user/add/ HTTP/1.1" 200 860
+Not Found: /les4/ãûóê
+"GET /les4/%D0%B3%D1%8B%D1%83%D0%BA HTTP/1.1" 404 3389
+Not Found: /les4/ãuser
+"GET /les4/%D0%B3user HTTP/1.1" 404 3371
+"GET /les4/user HTTP/1.1" 301 0
+"GET /les4/user/ HTTP/1.1" 200 889
+"GET /les4/forms HTTP/1.1" 301 0
+"GET /les4/forms/ HTTP/1.1" 200 2068
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /game
+"GET /game HTTP/1.1" 404 2735
+"GET /les4/user/ HTTP/1.1" 200 889
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 3524
+"GET /les4/game HTTP/1.1" 301 0
+"GET /les4/game/ HTTP/1.1" 200 860
+"GET /les4/game/ HTTP/1.1" 200 860
+C:\teach\pyt\jango_gb\myproject\myapp4\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp4\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les4/forms/ HTTP/1.1" 200 2068
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 34, in choice
+    return render(request, "myapp4/games.html",{'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/games.html
+"GET /les4/game/ HTTP/1.1" 500 83731
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 34, in choice
+    return render(request, "myapp4/games.html",{'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/games.html
+"GET /les4/game/ HTTP/1.1" 500 83868
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 34, in choice
+    return render(request, "myapp4/games.html",{'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/games.html
+"GET /les4/game/ HTTP/1.1" 500 83868
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 34, in choice
+    return render(request, "myapp4/games.html",{'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/games.html
+"GET /les4/game/ HTTP/1.1" 500 83868
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 34, in choice
+    return render(request, "myapp4/games.html",{'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/games.html
+"GET /les4/game/ HTTP/1.1" 500 83868
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 34, in choice
+    return render(request, "myapp4/games.html",{'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/games.html
+"GET /les4/game/ HTTP/1.1" 500 83868
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /game
+"GET /game HTTP/1.1" 404 2735
+Not Found: /games
+"GET /games HTTP/1.1" 404 2738
+"GET /les4/game/ HTTP/1.1" 200 240
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les4/game/ HTTP/1.1" 200 333
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 22, in choice
+    form = forms.ChoiceForm(request.POST)
+           ^^^^^^^^^^^^^^^^
+AttributeError: module 'django.forms' has no attribute 'ChoiceForm'
+"POST /les4/game/ HTTP/1.1" 500 68810
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+"GET /les4/game/ HTTP/1.1" 200 401
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 22, in choice
+    form = forms.ChoiceForm(request.POST)
+           ^^^^^^^^^^^^^^^^
+AttributeError: module 'django.forms' has no attribute 'ChoiceForm'
+"POST /les4/game/ HTTP/1.1" 500 68810
+C:\teach\pyt\jango_gb\myproject\myapp4\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /les4/game/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\myproject\myapp4\views.py", line 22, in choice
+    form = forms.ChoiceForm(request.POST)
+           ^^^^^^^^^^^^^^^^
+AttributeError: module 'django.forms' has no attribute 'ChoiceForm'
+"POST /les4/game/ HTTP/1.1" 500 68810
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\urls.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2861
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+"GET /static/admin/css/base.css HTTP/1.1" 200 21207
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 5556
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/auth/group/add/ HTTP/1.1" 200 12847
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+"GET /admin/auth/group/ HTTP/1.1" 200 7251
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/ HTTP/1.1" 200 5556
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 5852
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+"GET /admin/ HTTP/1.1" 200 5852
+"GET /admin/password_change/ HTTP/1.1" 200 7453
+"GET /admin/ HTTP/1.1" 200 5852
+"GET /admin/ HTTP/1.1" 200 5852
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /admin/auth/user/add/ HTTP/1.1" 200 10988
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24247
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 11958
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24068
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/add/ HTTP/1.1" 200 13641
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 11738
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/add/ HTTP/1.1" 200 13641
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/group/add/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 9114
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 12044
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24109
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 12264
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/ HTTP/1.1" 200 8901
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/1/change/ HTTP/1.1" 200 13898
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/group/1/change/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 9116
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 12044
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24073
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 12264
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/logout/ HTTP/1.1" 200 3709
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 4807
+C:\teach\pyt\jango_gb\myproject\myapp5\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 200 4807
+"POST /admin/logout/ HTTP/1.1" 200 3709
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 8797
+"GET /admin/myapp5/product/add/ HTTP/1.1" 200 10756
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/ HTTP/1.1" 200 8797
+"GET /admin/myapp5/category/ HTTP/1.1" 200 8143
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/add/ HTTP/1.1" 200 8984
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 8143
+C:\teach\pyt\jango_gb\myproject\myapp2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/category/ HTTP/1.1" 200 8980
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 9912
+"GET /admin/myapp2/author/add/ HTTP/1.1" 200 10430
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp2/author/add/ HTTP/1.1" 302 0
+"GET /admin/myapp2/author/ HTTP/1.1" 200 10573
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/author/add/ HTTP/1.1" 200 10430
+"GET /admin/ HTTP/1.1" 200 10273
+"GET /admin/myapp2/post/ HTTP/1.1" 200 8952
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/add/ HTTP/1.1" 200 12304
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp2/post/add/ HTTP/1.1" 302 0
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10411
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/logout/ HTTP/1.1" 200 3709
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 5346
+"GET /admin/myapp2/post/add/ HTTP/1.1" 200 9220
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp2/post/add/ HTTP/1.1" 302 0
+"GET /admin/myapp2/post/ HTTP/1.1" 200 7484
+"GET /admin/myapp2/post/2/change/ HTTP/1.1" 200 9377
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/ HTTP/1.1" 200 7275
+"GET /admin/myapp2/post/add/ HTTP/1.1" 200 9220
+"POST /admin/myapp2/post/add/ HTTP/1.1" 302 0
+"GET /admin/myapp2/post/ HTTP/1.1" 200 7583
+"POST /admin/logout/ HTTP/1.1" 200 3709
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10561
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/1/change/ HTTP/1.1" 200 12553
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/ HTTP/1.1" 200 10561
+"GET /admin/myapp5/category/add/ HTTP/1.1" 200 9821
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+"GET /admin/myapp5/category/add/ HTTP/1.1" 200 10105
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+"GET /admin/myapp5/category/add/ HTTP/1.1" 200 10107
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/add/ HTTP/1.1" 200 9821
+"GET /admin/myapp5/category/add/ HTTP/1.1" 200 9821
+"GET /admin/ HTTP/1.1" 200 11139
+"GET /admin/myapp5/product/ HTTP/1.1" 200 8973
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/add/ HTTP/1.1" 200 11669
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10431
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/add/ HTTP/1.1" 200 11669
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10655
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/add/ HTTP/1.1" 200 11669
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10866
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/add/ HTTP/1.1" 200 11669
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4478
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+"GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+"POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 11071
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11938
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/myapp5/product/add/ HTTP/1.1" 200 11714
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp2/author/ HTTP/1.1" 200 10290
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 11962
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2861
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 14461
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/ HTTP/1.1" 200 10861
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/ HTTP/1.1" 200 5755
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/2/change/ HTTP/1.1" 200 10045
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/3/change/ HTTP/1.1" 200 10069
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 14485
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/3/change/ HTTP/1.1" 200 10069
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/2/change/ HTTP/1.1" 200 10045
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/product/ HTTP/1.1" 200 11468
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?o=3 HTTP/1.1" 200 11902
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?o=2.3 HTTP/1.1" 200 12394
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?o=2.-3 HTTP/1.1" 200 12403
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?o=2 HTTP/1.1" 200 11902
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 11116
+"GET /admin/myapp5/product/ HTTP/1.1" 200 12258
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?o=2.3 HTTP/1.1" 200 12394
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/1/change/?_changelist_filters=o%3D2.3 HTTP/1.1" 200 14547
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/1/change/?_changelist_filters=o%3D2.3 HTTP/1.1" 302 0
+"GET /admin/myapp5/product/?o=2.3 HTTP/1.1" 200 12605
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/2/change/?_changelist_filters=o%3D2.3 HTTP/1.1" 200 14579
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/2/change/?_changelist_filters=o%3D2.3 HTTP/1.1" 302 0
+"GET /admin/myapp5/product/?o=2.3 HTTP/1.1" 200 12613
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/4/change/?_changelist_filters=o%3D2.3 HTTP/1.1" 200 14555
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/4/change/?_changelist_filters=o%3D2.3 HTTP/1.1" 302 0
+"GET /admin/myapp5/product/?o=2.3 HTTP/1.1" 200 12608
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?o=-3.2 HTTP/1.1" 200 12405
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/3/change/?_changelist_filters=o%3D-3.2 HTTP/1.1" 200 14574
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/3/change/?_changelist_filters=o%3D-3.2 HTTP/1.1" 302 0
+"GET /admin/myapp5/product/?o=-3.2 HTTP/1.1" 200 12623
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 11052
+"GET /admin/myapp5/product/ HTTP/1.1" 200 13450
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?date_added__gte=2023-09-01+00%3A00%3A00%2B00%3A00&date_added__lt=2023-10-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15262
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/? HTTP/1.1" 200 13450
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?price=99999.99 HTTP/1.1" 200 13987
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/3/change/?_changelist_filters=price%3D99999.99 HTTP/1.1" 200 14600
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?price=99999.99 HTTP/1.1" 200 13987
+"GET /admin/myapp5/product/1/change/?_changelist_filters=price%3D99999.99 HTTP/1.1" 200 14575
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/1/change/?_changelist_filters=price%3D99999.99 HTTP/1.1" 302 0
+"GET /admin/myapp5/product/?price=99999.99 HTTP/1.1" 200 13931
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/4/change/?_changelist_filters=price%3D99999.99 HTTP/1.1" 200 14583
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/4/change/?_changelist_filters=price%3D99999.99 HTTP/1.1" 302 0
+"GET /admin/myapp5/product/?price=99999.99 HTTP/1.1" 200 13657
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?price=34.00 HTTP/1.1" 200 13076
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?price=22.00 HTTP/1.1" 200 13066
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/? HTTP/1.1" 200 13558
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/? HTTP/1.1" 200 14038
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?price=34.00 HTTP/1.1" 200 13700
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/? HTTP/1.1" 200 14038
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/?q=isodd HTTP/1.1" 200 11618
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/? HTTP/1.1" 200 14038
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 11056
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14038
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14131
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14131
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 14485
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/2/change/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14350
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 11059
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14132
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/2/change/?_changelist_filters=o%3D-3.2 HTTP/1.1" 200 14583
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/2/history/?_changelist_filters=o%3D-3.2 HTTP/1.1" 200 8640
+"GET /admin/myapp5/product/2/change/?_changelist_filters=o%3D-3.2 HTTP/1.1" 200 14583
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/? HTTP/1.1" 200 14132
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Internal Server Error: /admin/myapp5/product/1/change/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 300, in __new__
+    fields = fields_for_model(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 198, in fields_for_model
+    raise FieldError(
+django.core.exceptions.FieldError: 'date_added' cannot be specified for Product model form as it is a non-editable field
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: 'date_added' cannot be specified for Product model form as it is a non-editable field. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+"GET /admin/myapp5/product/1/change/ HTTP/1.1" 500 139767
+Internal Server Error: /admin/myapp5/product/1/change/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 300, in __new__
+    fields = fields_for_model(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 198, in fields_for_model
+    raise FieldError(
+django.core.exceptions.FieldError: 'date_added' cannot be specified for Product model form as it is a non-editable field
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: 'date_added' cannot be specified for Product model form as it is a non-editable field. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+"GET /admin/myapp5/product/1/change/ HTTP/1.1" 500 139904
+Internal Server Error: /admin/myapp5/product/1/change/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 300, in __new__
+    fields = fields_for_model(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 198, in fields_for_model
+    raise FieldError(
+django.core.exceptions.FieldError: 'date_added' cannot be specified for Product model form as it is a non-editable field
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: 'date_added' cannot be specified for Product model form as it is a non-editable field. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+"GET /admin/myapp5/product/1/change/ HTTP/1.1" 500 139904
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 14938
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14132
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14132
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Internal Server Error: /admin/myapp5/product/3/change/
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (discription) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\teach\pyt\jango_gb\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (discription) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+"GET /admin/myapp5/product/3/change/ HTTP/1.1" 500 134958
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 13700
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/myapp5/product/3/change/ HTTP/1.1" 302 0
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14348
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 13708
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/myapp5/product/2/change/?_changelist_filters=o%3D-3.2 HTTP/1.1" 200 15719
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\models.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14132
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 15622
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14132
+"POST /admin/logout/ HTTP/1.1" 200 3709
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4533
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 5947
+"GET /admin/myapp2/post/ HTTP/1.1" 200 7374
+"POST /admin/logout/ HTTP/1.1" 200 3709
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4534
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/myapp5/product/ HTTP/1.1" 200 14132
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/3/change/ HTTP/1.1" 200 14990
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/ HTTP/1.1" 200 11062
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/ HTTP/1.1" 200 11062
+"GET /admin/auth/user/ HTTP/1.1" 200 13738
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/add/ HTTP/1.1" 200 12682
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 26537
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/add/ HTTP/1.1" 200 12682
+"GET /admin/auth/user/ HTTP/1.1" 200 14121
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /admin/ HTTP/1.1" 200 11063
+"GET /admin/auth/group/add/ HTTP/1.1" 200 15885
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/group/add/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 11027
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/2/change/ HTTP/1.1" 200 16157
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/ HTTP/1.1" 200 10808
+"GET /admin/ HTTP/1.1" 200 11072
+"GET /admin/auth/user/ HTTP/1.1" 200 14194
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/add/ HTTP/1.1" 200 12682
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 200 12996
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 200 12873
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 14194
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 26287
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 14415
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 26296
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 14194
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 26296
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 14194
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myapp5\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/auth/user/ HTTP/1.1" 200 14194
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/ HTTP/1.1" 200 5902
+"GET /admin/ HTTP/1.1" 200 11083
+"GET /admin/myapp2/author/ HTTP/1.1" 200 10290
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/author/1/change/ HTTP/1.1" 200 10948
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/author/ HTTP/1.1" 200 10290
+"GET /admin/myapp2/author/1/change/ HTTP/1.1" 200 10948
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/author/ HTTP/1.1" 200 10290
+"GET /admin/ HTTP/1.1" 200 11083
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/3/change/ HTTP/1.1" 200 14990
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 11083
+"GET /admin/myapp2/author/ HTTP/1.1" 200 10290
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 11083
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/ HTTP/1.1" 200 11083
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/2/change/ HTTP/1.1" 200 10045
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/myapp5/category/1/change/ HTTP/1.1" 200 10037
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp5/category/ HTTP/1.1" 200 10660
+"GET /admin/ HTTP/1.1" 200 11083
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/3/change/ HTTP/1.1" 200 14990
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/myapp2/post/ HTTP/1.1" 200 10624
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2971
+Not Found: /__debug__/
+"GET /__debug__/ HTTP/1.1" 404 4205
+Not Found: /__debug__/render_panel/
+"GET /__debug__/render_panel/ HTTP/1.1" 404 3189
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 10027
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+index pfge acsees
+"GET / HTTP/1.1" 200 10029
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+index pfge acsees
+"GET / HTTP/1.1" 200 254
+C:\teach\pyt\jango_gb\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+index pfge acsees
+"GET / HTTP/1.1" 200 10030
+index pfge acsees
+"GET / HTTP/1.1" 200 10029
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 14070
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 14070
+"GET /__debug__/render_panel/?store_id=96f848d991ac4352bce93601d0d8ac2f&panel_id=SettingsPanel HTTP/1.1" 200 26404
+index pfge acsees
+"GET / HTTP/1.1" 200 10029
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+index pfge acsees
+"GET / HTTP/1.1" 200 10029
+"GET /__debug__/render_panel/?store_id=8ca0f43e7ca64c72b603a74938bb247b&panel_id=HistoryPanel HTTP/1.1" 200 14143
+"GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+index pfge acsees
+"GET / HTTP/1.1" 200 10029
+"GET /__debug__/render_panel/?store_id=a8ffbc1366454914a25c46f88d5bdb5f&panel_id=VersionsPanel HTTP/1.1" 200 760
+"GET /__debug__/render_panel/?store_id=a8ffbc1366454914a25c46f88d5bdb5f&panel_id=RequestPanel HTTP/1.1" 200 1382
+"GET /__debug__/render_panel/?store_id=a8ffbc1366454914a25c46f88d5bdb5f&panel_id=SettingsPanel HTTP/1.1" 200 26404
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 14070
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 14070
+"GET /__debug__/render_panel/?store_id=f65de0dd641d4f1e92568671cadb9422&panel_id=SQLPanel HTTP/1.1" 200 428
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20863
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /__debug__/render_panel/?store_id=bcc12f3ac38441c7b566570861a9f4cc&panel_id=SQLPanel HTTP/1.1" 200 49991
+"GET /__debug__/render_panel/?store_id=bcc12f3ac38441c7b566570861a9f4cc&panel_id=SignalsPanel HTTP/1.1" 200 2310
+"GET /admin/ HTTP/1.1" 200 21290
+"GET /__debug__/render_panel/?store_id=f19ba0d59cdb4529aa2248cd4ba07e5b&panel_id=ProfilingPanel HTTP/1.1" 200 20829
